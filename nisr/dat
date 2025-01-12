@@ -1,8 +1,8 @@
 {
- "URL":"",
-  "baseID":"",
-  "tableID":"",
+ "URL":"https://api.airtable.com/v0",
+  "baseID":"appKubynOQe08l5DH",
+  "tableID":"tblsGllMWtLur1nCu",
   "attachementFieldID":"",
-  "Authenticator":"",
+  "Authenticator":"Bearer pat8F8BeEquGsGvpL.b2d70c58a15680794051a223e489037aa170d5c1f69abb85ef7393d3beedcd11",
   "":""
 }
